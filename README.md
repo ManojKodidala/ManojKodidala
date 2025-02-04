@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ManojKodidala
-- 👀 I’m interested in java full-stack developer role
-- 🌱 I’m currently learning Java full-stack Development
-- 💬 Ask me about java , html , sql , css and javaScript
-- 📫 How to reach me kodidhalamanoj17@gmail.com
-
-<!---
-ManojKodidala/ManojKodidala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Manoj Kodidala
+🚀 PHP Laravel Backend Developer | 1.4+ years of experience
+👀 I’m interested in building scalable and efficient backend systems.
+🌱 Currently exploring advanced Laravel features, microservices, and Vue.js.
+💬 Ask me about PHP, Laravel, MySQL, REST APIs, Vue.js, and backend architecture.
+📫 Reach me at kodidhalamanoj17@gmail.com.
+🔧 Tech Stack:
+      Backend: PHP, Laravel, MySQL, RESTful APIs
+      Frontend (Basic): Vue.js, HTML, CSS, JavaScript
+      Tools & Others: Git, Postman, Docker (Basic), AWS (Basic)
+⚡ Check out my repositories below!
